@@ -1,5 +1,9 @@
 # 真央ゼミWebサイト
-真央ゼミのWebサイト用リポジトリです。
+本リポジトリは勉強会での練習として使用するリポジトリです。
+プルリクエストを送ると、真央ゼミWebサイトの情報を追加更新できます。
+
+GitHub Pages機能を使って公開されているページは[こちら](https://llminatoll.github.io/my-seminar/)から閲覧できます。 https://llminatoll.github.io/my-seminar/
+
 
 # ディレクトリ構成
 ```
@@ -12,6 +16,3 @@ seminar/
 └─ css/
     └─ common.css
 ```
-
-# 備考
-本リポジトリは「わかばちゃんと学ぶGit使い方入門」の練習用として使用するリポジトリです。
