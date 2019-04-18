@@ -201,3 +201,7 @@ main a.button:active { text-decoration: none; }
 	}
 }
 
+.dorara_img {
+	width: 150px;
+	border-radius: 50%;
+}
